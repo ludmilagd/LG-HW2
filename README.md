@@ -1,2 +1,1 @@
-# LG-HW2
-VBA Script 
+# VBA Script Challenge
